@@ -1,6 +1,6 @@
 var app = angular.module('miniRouting'); 
 
-app.service('productService', function(){
+app.service('productsService', function(){
   
   this.shoeData = [
     {
